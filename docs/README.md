@@ -1,14 +1,31 @@
+ Library Book Tracking System
 
- Team – Library Book Tracking System
+ Project Description
+This project is developed for the Data Structures Lab.
+It automates library operations using multiple data structures.
 
-Team Members
+ Team Members
+- Haris Waseem – Hash Table
+- Armish Fatima – Linked List
+- Taha Bin Tariq – Queue
+- Muhammad Mohid – Array
+- Zahra Fiaz – Tree
+- Khizra Umar – Graph
 
-- **Haris Waseem** – Hash Table (Book Search & Indexing)
-- **Armish Fatima** – Linked List (Book Catalog Management)
-- **Taha Bin Tariq** – Queue (Borrow & Return System)
-- **Muhammad Mohid** – Array (Inventory Management)
-- **Zahra Fiaz** – Tree (Category & Genre Hierarchy)
-- **Khizra Umar Daraz** – Graph (Navigation & Recommendations)
+ Data Structures Used
+- Linked List
+- Hash Table
+- Queue
+- Array
+- Tree
+- Graph
 
-Team Objective
-To collaboratively design and implement a Library Book Tracking System using core Data Structures concepts.
+ Features
+- Add / delete books
+- Search books instantly
+- Borrow & return system
+- Category hierarchy
+- Path finding inside library
+
+## 📂 Project Structure
+
